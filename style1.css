@@ -10,7 +10,6 @@
 .header{
     width: 400px;
     height: 100PX;
-    float: left;
     background-color: #141f44;
     color: white;
 }
@@ -24,9 +23,9 @@
 .right{
     width: 250PX;
     height: 250px;
+    float: left;
     background-color: #8c2727;
     color: white;
-    margin : 0 0 0 150px;
 
 }
 .footer{
